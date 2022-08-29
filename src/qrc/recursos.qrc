@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/Images/certificado.png</file>
+        <file>Recursos/Images/RMpixel 256x256.ico</file>
+        <file>Recursos/Images/RMpixel ico 64x64.png</file>
+        <file>Recursos/Images/RMpixel.ico</file>
+        <file>Recursos/Images/RMpixel.jpg</file>
+        <file>Recursos/Images/bogart2.bmp</file>
+        <file>Recursos/iconos/open-file.png</file>
+        <file>Recursos/iconos/save_file.png</file>
+        <file>Recursos/iconos/information.png</file>
+        <file>Recursos/iconos/open files.png</file>
+        <file>Recursos/iconos/save file.png</file>
+        <file>Recursos/iconos/brilloycontraste.png</file>
+        <file>Recursos/iconos/gamma.png</file>
+        <file>Recursos/iconos/grises.png</file>
+        <file>Recursos/iconos/histograma absoluto.png</file>
+        <file>Recursos/iconos/histograma acumulado.png</file>
+        <file>Recursos/iconos/cerrar.png</file>
+        <file>Recursos/iconos/diferencia de imagenes.png</file>
+        <file>Recursos/iconos/mapa de cambios.png</file>
+        <file>Recursos/iconos/transformacion_lineal_tramos.png</file>
+        <file>Recursos/iconos/espejo horizontal.png</file>
+        <file>Recursos/iconos/espejo vertical.png</file>
+        <file>Recursos/iconos/rotacion derecha.png</file>
+        <file>Recursos/iconos/rotacion izquierda.png</file>
+        <file>Recursos/iconos/Rotar 90 izquierda.png</file>
+        <file>Recursos/iconos/escalar.png</file>
+        <file>Recursos/iconos/transpuesta.png</file>
+        <file>Recursos/iconos/Rotar 90 derecha.png</file>
+    </qresource>
+</RCC>

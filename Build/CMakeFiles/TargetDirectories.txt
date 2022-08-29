@@ -1,0 +1,4 @@
+D:/MisDatos/git/FotoVision2/Build/CMakeFiles/FotoVision2.dir
+D:/MisDatos/git/FotoVision2/Build/CMakeFiles/edit_cache.dir
+D:/MisDatos/git/FotoVision2/Build/CMakeFiles/rebuild_cache.dir
+D:/MisDatos/git/FotoVision2/Build/CMakeFiles/FotoVision2_autogen.dir

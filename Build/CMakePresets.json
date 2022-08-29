@@ -1,0 +1,73 @@
+{
+    "version": 5,
+    "cmakeMinimumRequired": {
+      "major": 3,
+      "minor": 23,
+      "patch": 0
+    },
+  
+    "configurePresets": [
+      {
+        "name": "default",
+        "displayName": "Release Compilation",
+        "description": "Build using Ninja generator in release mode",
+        "generator": "Ninja",
+        "binaryDir": "${sourceDir}",
+        "cacheVariables": {
+          "FIRST_CACHE_VARIABLE": {
+            "type": "BOOL",
+            "value": "OFF"
+          },
+          "CMAKE_BUILD_TYPE": "Release"
+        },
+        "environment": {
+          "MY_ENVIRONMENT_VARIABLE": "Test",
+          "PATH": "$env{HOME}/ninja/bin:$penv{PATH}",
+          "CMAKE_BINARY_DIR": "${sourceDir}"
+
+        },
+        "vendor": {
+          "example.com/ExampleIDE/1.0": {
+            "autoFormat": true
+          }
+        }
+      },
+      {
+        "name": "Debug",
+        "inherits": "default",
+        "displayName": "Ninja Multi-Config",
+        "description": "Default build using Ninja Multi-Config generator",
+        "generator": "Ninja Multi-Config"
+      },
+      {
+        "name": "windows-only",
+        "inherits": "default",
+        "displayName": "Windows-only configuration",
+        "description": "This build is only available on Windows",
+        "condition": {
+          "type": "equals",
+          "lhs": "${hostSystemName}",
+          "rhs": "Windows"
+        }
+      }
+    ],
+    "buildPresets": [
+      {
+        "name": "default",
+        "configurePreset": "default"
+      }
+    ],
+    "testPresets": [
+      {
+        "name": "default",
+        "configurePreset": "default",
+        "output": {"outputOnFailure": true},
+        "execution": {"noTestsAction": "error", "stopOnFailure": true}
+      }
+    ],
+    "vendor": {
+      "example.com/ExampleIDE/1.0": {
+        "autoFormat": false
+      }
+    }
+  }

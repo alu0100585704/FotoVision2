@@ -1,0 +1,1969 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "D:/MisDatos/git/FotoVision2/Bin/FotoVision2_Windows_64Bits_Release_GNU_11.2.0_with_Qt6.3_STATIC/FotoVision2.exe"
+		},
+		{
+			"path" : "D:/MisDatos/git/FotoVision2/Bin/FotoVision2_Windows_64Bits_Release_GNU_11.2.0_with_Qt6.3_STATIC/FotoVision2.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_dependencies",
+			"__qt_internal_add_static_plugins_once",
+			"__qt_internal_propagate_object_library",
+			"__qt_internal_add_static_plugin_import_macro",
+			"__qt_internal_add_static_plugin_linkage",
+			"qt_find_package_system_or_bundled",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Charts/Qt6ChartsDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Charts/Qt6ChartsConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6ChartsQml/Qt6ChartsQmlDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6ChartsQml/Qt6ChartsQmlConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Dependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtchartsqml2Config.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6VirtualKeyboard/Qt6VirtualKeyboardDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6VirtualKeyboard/Qt6VirtualKeyboardConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Charts/Qt6ChartsTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/QtFindWrapHelper.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapHarfbuzz.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapFreetype.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapPNG.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapJpeg.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QJpegPluginDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapZLIB.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6/FindWrapPCRE2.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake",
+			"C:/Qt/6.3.1/Build_Static/mingw1120_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 124,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 112,
+				"parent" : 0
+			},
+			{
+				"file" : 20,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 20,
+				"line" : 213,
+				"parent" : 4
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 40,
+				"parent" : 6
+			},
+			{
+				"file" : 19,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 19,
+				"line" : 96,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 10
+			},
+			{
+				"file" : 18,
+				"parent" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 18,
+				"line" : 121,
+				"parent" : 12
+			},
+			{
+				"file" : 17,
+				"parent" : 13
+			},
+			{
+				"command" : 7,
+				"file" : 17,
+				"line" : 66,
+				"parent" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 24,
+				"parent" : 15
+			},
+			{
+				"file" : 16,
+				"parent" : 16
+			},
+			{
+				"command" : 3,
+				"file" : 16,
+				"line" : 48,
+				"parent" : 17
+			},
+			{
+				"file" : 15,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 43,
+				"parent" : 19
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 20
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 21
+			},
+			{
+				"file" : 14,
+				"parent" : 22
+			},
+			{
+				"command" : 3,
+				"file" : 14,
+				"line" : 40,
+				"parent" : 23
+			},
+			{
+				"file" : 13,
+				"parent" : 24
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 96,
+				"parent" : 25
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 26
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 27
+			},
+			{
+				"file" : 12,
+				"parent" : 28
+			},
+			{
+				"command" : 3,
+				"file" : 12,
+				"line" : 121,
+				"parent" : 29
+			},
+			{
+				"file" : 11,
+				"parent" : 30
+			},
+			{
+				"command" : 3,
+				"file" : 11,
+				"line" : 18,
+				"parent" : 31
+			},
+			{
+				"file" : 10,
+				"parent" : 32
+			},
+			{
+				"command" : 3,
+				"file" : 10,
+				"line" : 48,
+				"parent" : 33
+			},
+			{
+				"file" : 9,
+				"parent" : 34
+			},
+			{
+				"command" : 6,
+				"file" : 9,
+				"line" : 43,
+				"parent" : 35
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 36
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 37
+			},
+			{
+				"file" : 8,
+				"parent" : 38
+			},
+			{
+				"command" : 3,
+				"file" : 8,
+				"line" : 40,
+				"parent" : 39
+			},
+			{
+				"file" : 7,
+				"parent" : 40
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 96,
+				"parent" : 41
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 42
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 43
+			},
+			{
+				"file" : 6,
+				"parent" : 44
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 40,
+				"parent" : 45
+			},
+			{
+				"file" : 5,
+				"parent" : 46
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 96,
+				"parent" : 47
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 48
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 49
+			},
+			{
+				"file" : 2,
+				"parent" : 50
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 50,
+				"parent" : 51
+			},
+			{
+				"file" : 1,
+				"parent" : 52
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 53
+			},
+			{
+				"command" : 3,
+				"file" : 18,
+				"line" : 50,
+				"parent" : 12
+			},
+			{
+				"file" : 21,
+				"parent" : 55
+			},
+			{
+				"command" : 2,
+				"file" : 21,
+				"line" : 56,
+				"parent" : 56
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 121,
+				"parent" : 51
+			},
+			{
+				"file" : 24,
+				"parent" : 58
+			},
+			{
+				"command" : 7,
+				"file" : 24,
+				"line" : 66,
+				"parent" : 59
+			},
+			{
+				"command" : 9,
+				"file" : 24,
+				"line" : 53,
+				"parent" : 60
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 61
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 62
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 64
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 65
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 67
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 68
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 70
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 71
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 73
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 74
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 76
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 77
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 79
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 80
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 82
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 83
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 85
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 86
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 88
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 89
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 91
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 92
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 24,
+				"parent" : 15
+			},
+			{
+				"file" : 26,
+				"parent" : 94
+			},
+			{
+				"command" : 3,
+				"file" : 26,
+				"line" : 51,
+				"parent" : 95
+			},
+			{
+				"file" : 25,
+				"parent" : 96
+			},
+			{
+				"command" : 2,
+				"file" : 25,
+				"line" : 56,
+				"parent" : 97
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 53,
+				"parent" : 15
+			},
+			{
+				"command" : 8,
+				"file" : 23,
+				"line" : 198,
+				"parent" : 99
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 1925,
+				"parent" : 100
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 6,
+				"line" : 50,
+				"parent" : 45
+			},
+			{
+				"file" : 27,
+				"parent" : 105
+			},
+			{
+				"command" : 2,
+				"file" : 27,
+				"line" : 56,
+				"parent" : 106
+			},
+			{
+				"command" : 10,
+				"file" : 24,
+				"line" : 52,
+				"parent" : 60
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 108
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 110
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 112
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 114
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 116
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 118
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 120
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 122
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 124
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 126
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 128
+			},
+			{
+				"command" : 10,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 23,
+				"line" : 148,
+				"parent" : 130
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 24,
+				"parent" : 15
+			},
+			{
+				"file" : 29,
+				"parent" : 132
+			},
+			{
+				"command" : 3,
+				"file" : 29,
+				"line" : 51,
+				"parent" : 133
+			},
+			{
+				"file" : 28,
+				"parent" : 134
+			},
+			{
+				"command" : 2,
+				"file" : 28,
+				"line" : 56,
+				"parent" : 135
+			},
+			{
+				"command" : 3,
+				"file" : 18,
+				"line" : 40,
+				"parent" : 12
+			},
+			{
+				"file" : 32,
+				"parent" : 137
+			},
+			{
+				"command" : 5,
+				"file" : 32,
+				"line" : 48,
+				"parent" : 138
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 139
+			},
+			{
+				"file" : 31,
+				"parent" : 140
+			},
+			{
+				"command" : 11,
+				"file" : 31,
+				"line" : 3,
+				"parent" : 141
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 142
+			},
+			{
+				"command" : 5,
+				"file" : 32,
+				"line" : 48,
+				"parent" : 138
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 144
+			},
+			{
+				"file" : 33,
+				"parent" : 145
+			},
+			{
+				"command" : 11,
+				"file" : 33,
+				"line" : 3,
+				"parent" : 146
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 147
+			},
+			{
+				"command" : 5,
+				"file" : 32,
+				"line" : 48,
+				"parent" : 138
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 149
+			},
+			{
+				"file" : 34,
+				"parent" : 150
+			},
+			{
+				"command" : 11,
+				"file" : 34,
+				"line" : 3,
+				"parent" : 151
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 152
+			},
+			{
+				"command" : 3,
+				"file" : 17,
+				"line" : 24,
+				"parent" : 15
+			},
+			{
+				"file" : 37,
+				"parent" : 154
+			},
+			{
+				"command" : 3,
+				"file" : 37,
+				"line" : 48,
+				"parent" : 155
+			},
+			{
+				"file" : 36,
+				"parent" : 156
+			},
+			{
+				"command" : 5,
+				"file" : 36,
+				"line" : 31,
+				"parent" : 157
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 158
+			},
+			{
+				"file" : 35,
+				"parent" : 159
+			},
+			{
+				"command" : 11,
+				"file" : 35,
+				"line" : 3,
+				"parent" : 160
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 161
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 163
+			},
+			{
+				"file" : 40,
+				"parent" : 164
+			},
+			{
+				"command" : 3,
+				"file" : 40,
+				"line" : 40,
+				"parent" : 165
+			},
+			{
+				"file" : 39,
+				"parent" : 166
+			},
+			{
+				"command" : 5,
+				"file" : 39,
+				"line" : 48,
+				"parent" : 167
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 168
+			},
+			{
+				"file" : 38,
+				"parent" : 169
+			},
+			{
+				"command" : 11,
+				"file" : 38,
+				"line" : 3,
+				"parent" : 170
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 171
+			},
+			{
+				"command" : 3,
+				"file" : 40,
+				"line" : 50,
+				"parent" : 165
+			},
+			{
+				"file" : 41,
+				"parent" : 173
+			},
+			{
+				"command" : 2,
+				"file" : 41,
+				"line" : 56,
+				"parent" : 174
+			},
+			{
+				"command" : 5,
+				"file" : 39,
+				"line" : 48,
+				"parent" : 167
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 176
+			},
+			{
+				"file" : 42,
+				"parent" : 177
+			},
+			{
+				"command" : 11,
+				"file" : 42,
+				"line" : 3,
+				"parent" : 178
+			},
+			{
+				"command" : 1,
+				"file" : 30,
+				"line" : 73,
+				"parent" : 179
+			},
+			{
+				"command" : 6,
+				"file" : 39,
+				"line" : 96,
+				"parent" : 167
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 14,
+				"parent" : 181
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 47,
+				"parent" : 182
+			},
+			{
+				"file" : 44,
+				"parent" : 183
+			},
+			{
+				"command" : 3,
+				"file" : 44,
+				"line" : 50,
+				"parent" : 184
+			},
+			{
+				"file" : 43,
+				"parent" : 185
+			},
+			{
+				"command" : 2,
+				"file" : 43,
+				"line" : 56,
+				"parent" : 186
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 103,
+					"define" : "QT_CHARTS_LIB"
+				},
+				{
+					"backtrace" : 102,
+					"define" : "QT_CORE5COMPAT_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NEEDS_QMAIN"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 103,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 103,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "D:/MisDatos/git/FotoVision2/Build"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "D:/MisDatos/git/FotoVision2/Build/FotoVision2_autogen/include"
+				},
+				{
+					"backtrace" : 188,
+					"path" : "D:/MisDatos/git/FotoVision2/Build/../src/include"
+				},
+				{
+					"backtrace" : 188,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtZlib"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtCore"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtGui"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtCore5Compat"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtCharts"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 188,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/include/QtOpenGLWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.3.1/Build_Static/mingw1120_64/mkspecs/win32-g++"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				15
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "FotoVision2_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "FotoVision2::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive  -mwindows",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-Wl,--gc-sections",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\Widgets_resources_1\\.rcc\\qrc_qstyle.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\Widgets_resources_2\\.rcc\\qrc_qstyle1.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\Widgets_resources_3\\.rcc\\qrc_qmessagebox.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\Gui_resources_1\\.rcc\\qrc_qpdf.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 63,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\styles\\objects-Release\\QWindowsVistaStylePlugin_init\\QWindowsVistaStylePlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 66,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QGifPlugin_init\\QGifPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 69,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QICNSPlugin_init\\QICNSPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 72,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QICOPlugin_init\\QICOPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 75,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QJpegPlugin_init\\QJpegPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 78,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\iconengines\\objects-Release\\QSvgIconPlugin_init\\QSvgIconPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 81,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QSvgPlugin_init\\QSvgPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 84,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QTgaPlugin_init\\QTgaPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 87,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QTiffPlugin_init\\QTiffPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 90,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QWbmpPlugin_init\\QWbmpPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 93,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\objects-Release\\QWebpPlugin_init\\QWebpPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\QWindowsIntegrationPlugin_resources_1\\.rcc\\qrc_openglblacklists.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\objects-Release\\QWindowsIntegrationPlugin_resources_2\\.rcc\\qrc_cursors.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 101,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\platforms\\objects-Release\\QWindowsIntegrationPlugin_init\\QWindowsIntegrationPlugin_init.cpp.obj",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 102,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Core5Compat.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 103,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Charts.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 104,
+				"fragment" : "-static-libgcc",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 104,
+				"fragment" : "-static-libstdc++",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 107,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6OpenGLWidgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 109,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\styles\\libqwindowsvistastyle.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 109,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\styles\\libqwindowsvistastyle.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "-luxtheme",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 107,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6OpenGL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 111,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqgif.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 113,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqicns.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 115,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqico.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 117,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 119,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\iconengines\\libqsvgicon.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 121,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqsvg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 123,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqtga.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 125,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqtiff.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 127,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqwbmp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 129,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 131,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\platforms\\libqwindows.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 136,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Svg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 107,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6OpenGL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 111,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqgif.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 113,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqicns.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 115,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqico.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 117,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 119,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\iconengines\\libqsvgicon.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 121,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqsvg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 123,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqtga.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 125,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqtiff.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 127,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqwbmp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 129,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\imageformats\\libqwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 131,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\.\\plugins\\platforms\\libqwindows.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 136,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Svg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 143,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledHarfbuzz.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 148,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledFreetype.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 153,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledLibpng.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-ld2d1",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-ldwrite",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 162,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledLibjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "-ldwmapi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "-lgdi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-limm32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-loleaut32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lshlwapi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lwinspool",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lwtsapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lshcore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lcomdlg32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-ld3d9",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 98,
+				"fragment" : "-lruntimeobject",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 172,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledZLIB.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lsynchronization",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-ladvapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lauthz",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lkernel32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lnetapi32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lole32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-luuid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lversion",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lwinmm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 175,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 180,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6BundledPcre2.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 187,
+				"fragment" : "-lmingw32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 187,
+				"fragment" : "C:\\Qt\\6.3.1\\Build_Static\\mingw1120_64\\lib\\libQt6EntryPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 54,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 107,
+				"fragment" : "-luser32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "FotoVision2",
+	"nameOnDisk" : "FotoVision2.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				15
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				7,
+				8,
+				9,
+				13,
+				14
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				16
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "FotoVision2_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MisDatos/git/FotoVision2/src/cpp/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MisDatos/git/FotoVision2/src/cpp/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MisDatos/git/FotoVision2/src/cpp/image.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MisDatos/git/FotoVision2/src/cpp/events.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "D:/MisDatos/git/FotoVision2/src/cpp/brilloycontraste.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/include/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/include/brilloycontraste.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/include/events.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/include/image.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/forms/mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/forms/brilloycontraste.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "D:/MisDatos/git/FotoVision2/src/qrc/recursos.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "FotoVision2_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "FotoVision2_autogen/include/ui_brilloycontraste.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "FotoVision2_autogen/3OTH5NCNKL/qrc_recursos.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "FotoVision2_autogen/3OTH5NCNKL/qrc_recursos.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}
